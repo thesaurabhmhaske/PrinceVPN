@@ -5,13 +5,7 @@
 
 ##Note: Google Ads are integrated in the project with firebase for dynamics AD IDs (if you want them to work fine then configure firebase and some changes).
 
-Refer this videos for Firebase & Remote Config Changes for Ads: https://youtu.be/Bx0ixmpHpMI
-https://youtu.be/XkbRhBiSZMU
-
 <b>Simple, Decent & PrinceVPN Application based on OpenVPN Protocol.</b></br>
-
-<b>Check Youtube Course 👇<b>
-https://youtube.com/playlist?list=PL8kbUJtS6hyal7Uw7wTeYmv7yiNPH5kOq
 
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
 <kbd>
