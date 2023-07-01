@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469260576847",
+    "project_id": "princevpn-52afc",
+    "storage_bucket": "princevpn-52afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469260576847:android:b556c7c861ae05604b223a",
+        "android_client_info": {
+          "package_name": "com.saurabhmhaske.freeVpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469260576847-fcl3eukgtdr462ns0lumjd671oku3fo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFMADX64y-twSX5rDrmyuuTe3Yh_tuhg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469260576847-fcl3eukgtdr462ns0lumjd671oku3fo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
