@@ -9,12 +9,14 @@
 
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
 <kbd>
-<img src="https://github.com/HarshAndroid/FreeVPN-App-Flutter/blob/master/screenshots/1.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/FreeVPN-App-Flutter/blob/master/screenshots/2.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/FreeVPN-App-Flutter/blob/master/screenshots/3.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/FreeVPN-App-Flutter/blob/master/screenshots/4.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/FreeVPN-App-Flutter/blob/master/screenshots/5.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/FreeVPN-App-Flutter/blob/master/screenshots/6.png" width=30% height=30%/>
+<img src="https://github.com/thesaurabhmhaske/PrinceVPN/blob/main/screenshots/1.png" width=30% height=30%/>
+<img src="https://github.com/thesaurabhmhaske/PrinceVPN/blob/main/screenshots/2.png" width=30% height=30%/>
+<img src="https://github.com/thesaurabhmhaske/PrinceVPN/blob/main/screenshots/3.png" width=30% height=30%/>
+<img src="https://github.com/thesaurabhmhaske/PrinceVPN/blob/main/screenshots/4.png" width=30% height=30%/>
+<img src="https://github.com/thesaurabhmhaske/PrinceVPN/blob/main/screenshots/5.png" width=30% height=30%/>
+<img src="https://github.com/thesaurabhmhaske/PrinceVPN/blob/main/screenshots/6.png" width=30% height=30%/>
+<img src="https://github.com/thesaurabhmhaske/PrinceVPN/blob/main/screenshots/7.png" width=30% height=30%/>
+<img src="https://github.com/thesaurabhmhaske/PrinceVPN/blob/main/screenshots/8.png" width=30% height=30%/>
 </kbd>
 <br>
 <br>
