@@ -8,6 +8,7 @@
 <b>Simple, Decent & PrinceVPN Application based on OpenVPN Protocol.</b></br>
 
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
+https://github.com/thesaurabhmhaske/PrinceVPN/assets/85241921/b13fa5c6-c44f-4efd-90ad-a9e77c6fac19
 <kbd>
 <img src="https://github.com/thesaurabhmhaske/PrinceVPN/blob/main/screenshots/1.png" width=30% height=30%/>
 <img src="https://github.com/thesaurabhmhaske/PrinceVPN/blob/main/screenshots/2.png" width=30% height=30%/>
