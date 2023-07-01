@@ -35,7 +35,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.saurabhmhaske.freeVpn"
+        applicationId "com.saurabhmhaske.PrinceVPN"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()
